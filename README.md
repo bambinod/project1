@@ -1,4 +1,5 @@
 "This is the test demo project for practise purpose".
+<br> Author: Binod Bam </b>
 # django-todo
 A simple todo app built with django
 
