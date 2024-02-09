@@ -1,3 +1,4 @@
+"This is the test demo project for practise purpose".
 # django-todo
 A simple todo app built with django
 
