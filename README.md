@@ -1,5 +1,7 @@
 "This is the test demo project for practise purpose".
 <br> Author: Binod Bam </b>
+<br> It's only for learning abd practise purpose </br>
+<br>"LEARNER & FOCUSED</b>
 # django-todo
 A simple todo app built with django
 
